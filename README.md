@@ -10,4 +10,4 @@ For this drag & drop functionality reorderable_grid_view package is used,
 
 - [reorderable_grid_view package](https://pub.dev/packages/reorderable_grid_view)
 
-It is really easy & simple integrate.
+It is really easy & simple to integrate.
