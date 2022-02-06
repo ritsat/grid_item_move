@@ -1,4 +1,4 @@
-# Gridview item drag and drop
+# Gridview item drag and drop / Reorderable Gridview
 
 A Flutter project to drag & drop gridview item.
 
